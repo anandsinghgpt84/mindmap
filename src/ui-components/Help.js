@@ -4,10 +4,7 @@ function Help() {
         <>
             <h1>Help</h1>
             <p>
-                <a href="https://github.com/101samovar/react-mindmap.git">Source code</a>
-            </p>
-            <p>
-                <a href="https://youtube.com/c/Samovar101">More video</a>
+                <a href="https://github.com/anandsinghgpt84/mindmap">Source code</a>
             </p>
         </>
     );
